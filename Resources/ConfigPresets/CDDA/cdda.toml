@@ -1,0 +1,21 @@
+[adminlogs]
+server_name = "cdda"
+
+[game]
+defaultpreset = "CMDistressSignal"
+fallbackenabled = false
+fallbackpreset = "CMDistressSignal"
+round_end_sound_collection = "CMRoundEnd"
+contraband_examine = false
+round_end_pvs_overrides = false
+round_restart_time = 180
+lobbyduration = 180
+
+[net]
+tickrate = 25
+
+[procgen]
+preload = false
+
+[shuttle]
+arrivals = false

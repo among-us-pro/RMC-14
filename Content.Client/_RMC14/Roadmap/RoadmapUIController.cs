@@ -32,7 +32,7 @@ public sealed class RoadmapUIController : UIController, IOnStateEntered<LobbySta
         if (_infoUIController.RulesPopup != null)
             return;
 
-        ToggleRoadmap();
+        //ToggleRoadmap(); // CDDA
     }
 
     private void OnAccepted()
