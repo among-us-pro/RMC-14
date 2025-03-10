@@ -101,7 +101,7 @@
   id: CMXenoDrone
   components:
   - type: Sprite
-    sprite: _RMC14/Mobs/Xenonids/Drone/drone.rsi
+    sprite: _RMC14/Mobs/OldXenonids/Drone/drone.rsi # CDDA
   - type: Xeno
     actionIds:
     - ActionXenoRest
@@ -140,7 +140,7 @@
   suffix: Gardener
   components:
   - type: Sprite
-    sprite: _RMC14/Mobs/Xenonids/Drone/gardener_drone.rsi
+    sprite: _RMC14/Mobs/OldXenonids/Drone/gardener_drone.rsi # CDDA
     layers:
     - map: [ "enum.XenoVisualLayers.Base" ]
       state: alive
@@ -153,7 +153,7 @@
     - map: [ "enum.XenoInhandVisualLayers.Right" ]
       visible: false
   - type: XenoFruitPlanterVisuals
-    rsi: _RMC14/Mobs/Xenonids/Drone/gardener_drone.rsi
+    rsi: _RMC14/Mobs/OldXenonids/Drone/gardener_drone.rsi # CDDA
     prefix: gardener
   - type: Xeno
     actionIds:
@@ -194,7 +194,7 @@
   suffix: Healer
   components:
   - type: Sprite
-    sprite: _RMC14/Mobs/Xenonids/Drone/healer_drone.rsi
+    sprite: _RMC14/Mobs/OldXenonids/Drone/healer_drone.rsi # CDDA
     layers:
     - map: [ "enum.XenoVisualLayers.Base" ]
       state: alive

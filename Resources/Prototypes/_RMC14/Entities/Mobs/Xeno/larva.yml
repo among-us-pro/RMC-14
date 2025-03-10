@@ -8,7 +8,7 @@
   - type: GhostRole
     name: cm-job-name-xeno-larva
   - type: Sprite
-    sprite: _RMC14/Mobs/Xenonids/Larva/larva.rsi
+    sprite: _RMC14/Mobs/OldXenonids/Larva/larva.rsi # CDDA
   - type: MobState
     allowedStates:
     - Alive
@@ -85,6 +85,6 @@
   description: All slimy and yucky.
   components:
     - type: Sprite
-      sprite: _RMC14/Mobs/Xenonids/Larva/larva.rsi
+      sprite: _RMC14/Mobs/OldXenonids/Larva/larva.rsi # CDDA
       noRot: true
       state: embryo

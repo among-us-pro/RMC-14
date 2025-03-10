@@ -12,7 +12,7 @@
   - type: GhostRole
     name: cm-job-name-xeno-spitter
   - type: Sprite
-    sprite: _RMC14/Mobs/Xenonids/Spitter/spitter.rsi
+    sprite: _RMC14/Mobs/OldXenonids/Spitter/spitter.rsi # CDDA
   - type: MobState
     allowedStates:
     - Alive

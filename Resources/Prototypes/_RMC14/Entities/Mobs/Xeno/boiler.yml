@@ -12,7 +12,7 @@
   - type: GhostRole
     name: cm-job-name-xeno-boiler
   - type: Sprite
-    sprite: _RMC14/Mobs/Xenonids/Boiler/boiler.rsi
+    sprite: _RMC14/Mobs/OldXenonids/Boiler/boiler.rsi # CDDA
   - type: Fixtures
     fixtures:
       fix1:

@@ -12,7 +12,7 @@
   - type: GhostRole
     name: cm-job-name-xeno-ravager
   - type: Sprite
-    sprite: _RMC14/Mobs/Xenonids/Ravager/ravager.rsi
+    sprite: _RMC14/Mobs/OldXenonids/Ravager/ravager.rsi # CDDA
   - type: MobState
     allowedStates:
     - Alive

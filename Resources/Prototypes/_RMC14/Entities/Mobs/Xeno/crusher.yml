@@ -12,7 +12,7 @@
   - type: GhostRole
     name: cm-job-name-xeno-crusher
   - type: Sprite
-    sprite: _RMC14/Mobs/Xenonids/Crusher/crusher.rsi
+    sprite: _RMC14/Mobs/OldXenonids/Crusher/crusher.rsi # CDDA
   - type: MobState
     allowedStates:
     - Alive

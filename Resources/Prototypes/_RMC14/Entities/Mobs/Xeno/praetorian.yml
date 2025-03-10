@@ -13,7 +13,7 @@
   - type: GhostRole
     name: cm-job-name-xeno-praetorian
   - type: Sprite
-    sprite: _RMC14/Mobs/Xenonids/Praetorian/praetorian.rsi
+    sprite: _RMC14/Mobs/OldXenonids/Praetorian/praetorian.rsi # CDDA
   - type: MobState
     allowedStates:
     - Alive
@@ -151,7 +151,7 @@
   suffix: Valkyrie
   components:
   - type: Sprite
-    sprite: _RMC14/Mobs/Xenonids/Praetorian/valkyrie_praetorian.rsi
+    sprite: _RMC14/Mobs/OldXenonids/Praetorian/warden_praetorian.rsi # CDDA
   - type: Xeno
     actionIds:
     - ActionXenoRest
@@ -217,7 +217,7 @@
   suffix: Dancer
   components:
   - type: Sprite
-    sprite: _RMC14/Mobs/Xenonids/Praetorian/dancer_praetorian.rsi
+    sprite: _RMC14/Mobs/OldXenonids/Praetorian/dancer_praetorian.rsi # CDDA
   - type: Xeno
     actionIds:
     - ActionXenoRest
@@ -252,7 +252,7 @@
   suffix: Vanguard
   components:
   - type: Sprite
-    sprite: _RMC14/Mobs/Xenonids/Praetorian/vanguard_praetorian.rsi
+    sprite: _RMC14/Mobs/OldXenonids/Praetorian/vanguard_praetorian.rsi # CDDA
   - type: MobThresholds
     thresholds:
       0: Alive
@@ -300,7 +300,7 @@
   suffix: Oppressor
   components:
   - type: Sprite
-    sprite: _RMC14/Mobs/Xenonids/Praetorian/oppressor_praetorian.rsi
+    sprite: _RMC14/Mobs/OldXenonids/Praetorian/oppressor_praetorian.rsi # CDDA
   - type: Xeno
     actionIds:
     - ActionXenoRest
